@@ -39,7 +39,5 @@ bin/
 ### VS Code ###
 .vscode/
 
-uploads/
-
 ### Mac OS ###
 .DS_Store
